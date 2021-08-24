@@ -47,7 +47,7 @@ body::after {
 }
 .section-1 .info {
   color: hsl(303, 10%, 53%);
-  width: 80%;
+  width: 90%;
   margin-top: 20px;
   line-height: 25px;
 }
@@ -178,7 +178,7 @@ body::after {
   }
   .rating {
     margin: 10px 0px;
-    width: 80%;
+    width: 90%;
   }
 
   .section-2 {
@@ -187,7 +187,7 @@ body::after {
     padding: 0;
   }
   .section-2 .card {
-    width: 300px;
+    width: 90%;
     margin: 5px;
   }
   .card .profile{

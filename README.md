@@ -18,9 +18,7 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 
 ### The challenge
 
-Users should be able to:
-
-- See hover states for interactive elements
+The design should be able to be viewed properly on desktop and mobiles.
 
 ### Screenshot
 

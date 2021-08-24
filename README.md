@@ -62,7 +62,6 @@ in the font-size and width of the desc div i used percentage to make it flexable
     flex-direction: column;
     align-items: center;
   }
-}
 ```
 
 

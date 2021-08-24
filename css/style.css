@@ -23,7 +23,6 @@ body::after {
   bottom: 0;
   right: 0;
   z-index: -1;
-  width: 50%;
 }
 .wrapper {
   height: 80%;
@@ -141,7 +140,7 @@ body::after {
   }
   body::before {
     content: url("../images/bg-pattern-top-mobile.svg");
-    width: 100vw;
+
   }
   body::after {
     content: url("../images/bg-pattern-bottom-mobile.svg");

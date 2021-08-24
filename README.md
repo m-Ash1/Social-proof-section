@@ -24,9 +24,9 @@ Users should be able to:
 
 ### Screenshot
 
-![desktop view](./screenshots/project-6.PNG)
+![desktop view](./screenshots/project-6.png)
 <p align="center">
-  <img src="./screenshots/project-6-mobile.PNG">
+  <img src="./screenshots/project-6-mobile.png">
 </p>
 
 ## My process
